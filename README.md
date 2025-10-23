@@ -7,10 +7,10 @@
 I love building intelligent systems that make life easier — from scalable backend architectures to AI-driven applications that deliver real-world impact.
 
 ### 👩‍💻 About Me
-- **💡 I’m driven by curiosity, creativity, and a desire to build data-informed solutions.  
-- **🧠 My expertise spans **Machine Learning**, **Backend Development**, **Data Engineering**, and **Cloud Technologies**.  
-- **🚀 I’m passionate about applying **AI and automation** to solve real-world business and societal challenges.  
-- **🌍 Based in **Germany**.  
+- 💡 I’m driven by curiosity, creativity, and a desire to build data-informed solutions.  
+- 🧠 My expertise spans **Machine Learning**, **Backend Development**, **Data Engineering**, and **Cloud Technologies**.  
+- 🚀 I’m passionate about applying **AI and automation** to solve real-world business and societal challenges.  
+- 🌍 Based in **Germany**.  
 
 
 ### 🔭 Current Focus
