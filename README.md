@@ -2,17 +2,16 @@
 
 🎯 **Software Engineer | AI & Data Science Specialist | Innovator**
 
----
+
 **I’m a passionate **Software Engineer** with an **MSc in Data Science and Artificial Intelligence**. 
 I love building intelligent systems that make life easier — from scalable backend architectures to AI-driven applications that deliver real-world impact.
 
----
 ### 👩‍💻 About Me
-- 💡 I’m driven by curiosity, creativity, and a desire to build data-informed solutions.  
-- 🧠 My expertise spans **Machine Learning**, **Backend Development**, **Data Engineering**, and **Cloud Technologies**.  
-- 🚀 I’m passionate about applying **AI and automation** to solve real-world business and societal challenges.  
-- 🌍 Based in **Germany**.  
----
+- **💡 I’m driven by curiosity, creativity, and a desire to build data-informed solutions.  
+- **🧠 My expertise spans **Machine Learning**, **Backend Development**, **Data Engineering**, and **Cloud Technologies**.  
+- **🚀 I’m passionate about applying **AI and automation** to solve real-world business and societal challenges.  
+- **🌍 Based in **Germany**.  
+
 
 ### 🔭 Current Focus
 - Building AI-powered software products using **Python**, **FastAPI**, **Django**, and **PostgreSQL**.  
